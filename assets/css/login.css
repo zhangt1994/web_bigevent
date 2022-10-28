@@ -53,3 +53,18 @@ body {
 .layui-input {
     padding-left: 32px!important;
 }
+
+.layui-nav-img {
+    width: 40px;
+    height: 40px;
+}
+
+.text-avatar {
+    /* display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-color: #009688;
+    border-radius: 50%;
+    line-height: 40px; */
+    font-size: 20px;
+}
